@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Pulse - Pixel Monitor",
-  "categories": ["UTILITY", "ANALYTICS", "ATTRIBUTION"]
+  "categories": ["UTILITY", "ANALYTICS", "ATTRIBUTION"],
   "brand": {
     "id": "articDigital",
     "displayName": "Artic Digital",
