@@ -15,5 +15,5 @@
 homepage: "https://articpulse.com"
 documentation: "https://articpulse.com/docs"
 versions:
-  - sha: XXX
+  - sha: 459394ea04d1c29634d0182cee424b7482c1d6a9
     changeNotes: Initial Version
