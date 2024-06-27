@@ -2,8 +2,10 @@ homepage: "https://articpulse.com"
 documentation: "https://articpulse.com/docs"
 versions:
   # Latest version
+  - sha: a0d8e362aa0fc16c0c9e7e6a2748b3e8d632843d
+    changeNotes: Update production URL v1
+  # Older versions
   - sha: 0473c598368f169855bc0fbd39932bedcb135204
     changeNotes: Fixes to template + license
-   # Older versions
   - sha: e05bd6926f7b4b333b931269af890acfaecc091e
     changeNotes: Initial Version
