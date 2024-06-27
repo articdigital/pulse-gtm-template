@@ -89,7 +89,7 @@ const getPulse = () => {
 // Get reference to the global method
 const pulse = getPulse();
 
-injectScript('https://f0a2-88-18-174-73.ngrok-free.app/js/build/pulse.js', data.gtmOnSuccess, data.gtmOnFailure);
+injectScript('https://cdn.articpulse.com/pulse.min.js', data.gtmOnSuccess, data.gtmOnFailure);
 
 
 ___WEB_PERMISSIONS___
@@ -308,7 +308,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://articpulse.com/*"
+                "string": "https://cdn.articpulse.com/*"
               }
             ]
           }
